@@ -57,19 +57,17 @@
 
 ## Microsoft Learn 👨‍🎓
 
-[Microsoft Credentials and Certifications](https://learn.microsoft.com/en-us/credentials/)
+[Microsoft Learn](https://learn.microsoft.com)
 
 [Become Microsoft Certified](https://aka.ms/traincertposter) aka Train Cert Poster
 
-[Microsoft Learn](https://learn.microsoft.com)
+[Microsoft Certifications vs Applied Skills](https://learn.microsoft.com/en-us/credentials/)
 
 [Browse all courses, learning paths, and modules](https://learn.microsoft.com/en-us/training/browse/)
 
 [AI Skills Navigator](https://aiskillsnavigator.microsoft.com/en-us)
 
 [How we built "Ask Learn", the RAG-based knowledge service](https://devblogs.microsoft.com/engineering-at-microsoft/how-we-built-ask-learn-the-rag-based-knowledge-service/)
-
-[Training for GitHub](https://learn.microsoft.com/en-us/training/github/)
 
 <br>
 
@@ -88,11 +86,13 @@
 
 [Microsoft Agent 365 documentation](https://learn.microsoft.com/en-us/microsoft-agent-365/)
 
+<br>
 
 
 ## Useful Links 🤿
 
 <br>
+
 
 ## Your Trainer
 #### Thomas Jäkel
