@@ -1,12 +1,16 @@
-[LP1]: https://foo
-[LP2]: https://bar
+[LP1]: https://learn.microsoft.com/en-us/training/paths/configure-manage-microsoft-365-tenants-workloads/
+[LP2]: https://learn.microsoft.com/en-us/training/paths/govern-secure-microsoft-365-tenants-workloads/
+[LP3]: https://learn.microsoft.com/en-us/training/paths/manage-secure-microsoft-365-ai-services/
 
-# AZ-000 Azure foo bar
+# AB-650 Administer Microsoft 365 and AI services
 
 ## Learning Paths 🚀
 
-- Learning Path 1️: [Azure foo][LP1]
-- Learning Path 2️: [Azure bar][LP2]
+- Learning Path 1️: [Configure and manage Microsoft 365 tenants and workloads][LP1]
+- Learning Path 2️: [Govern and secure Microsoft 365 tenants and workloads][LP2]
+- Learning Path 3: [Manage and secure Microsoft 365 AI services][LP3]
+
+<br>
 
 
 ## Labs 🛠️
@@ -15,16 +19,13 @@
 [Lab environment Skillable](https://alh.learnondemand.net/) 
 [Lab environment Skillable](https://brainymotion.learnondemand.net/)
 [Lab environment Skillable](https://gknetherlands.learnondemand.net)
-
 -->
 
-<!--
 [Lab environment Go Deploy](https://lms.godeploy.it)
--->
 
-[GitHub Repo Microsoft Learn](https://github.com/foo)
+[Optional: GitHub Repo Microsoft Learn](https://github.com/MicrosoftLearning/AB-650T00_administer_microsoft_365_and_ai_services)
 
-[Optional: Lab Instructions step by step (HTML)](https://microsoftlearning.github.io/foo)
+[Optional: Lab Instructions step by step (HTML)](https://microsoftlearning.github.io/AB-650T00_administer_microsoft_365_and_ai_services/)
 
 <br>
 
@@ -33,12 +34,11 @@
 
 |   |   |
 | - | - |
-| <img src="https://download69118.blob.core.windows.net/anon/microsoft-certified-fundamentals-badge.svg" width="100"/> | [Microsoft Certified: Fundamentals](https://) |
-| <img src="https://download69118.blob.core.windows.net/anon/microsoft-certified-associate-badge.svg"    width="100"/> | [Microsoft Certified: Associate](https://) |
-| <img src="https://download69118.blob.core.windows.net/anon/microsoft-certified-expert-badge.svg"       width="100"/> | [Microsoft Certified: Expert](https://) |
+| <img src="https://download69118.blob.core.windows.net/anon/microsoft-certified-associate-badge.svg"    width="100"/> | [Microsoft Certified: Associate](https://learn.microsoft.com/en-us/credentials/certifications/ai-services-administrator-associate/) |
 
-
+<!-- 
 [Practice Assessment](https://)
+-->
 
 <br>
 
@@ -73,47 +73,20 @@
 
 <br>
 
+
 ## Microsoft Documentation Landing Pages 📲
 
-[Azure documentation](https://learn.microsoft.com/en-us/azure/)
-
-[Azure Resource Manager documentation](https://learn.microsoft.com/en-us/azure/azure-resource-manager/)
-
-[Bicep documentation](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/)
-
-[Azure Policy documentation](https://learn.microsoft.com/en-us/azure/governance/policy/)
+[Microsoft 365 documentation](https://learn.microsoft.com/en-us/microsoft-365/)
 
 [Microsoft Graph documentation](https://learn.microsoft.com/en-us/graph/)
-
-[Microsoft Defender for Cloud documentation](https://learn.microsoft.com/en-us/azure/defender-for-cloud/)
-
-[Microsoft Defender XDR documentation](https://learn.microsoft.com/en-us/defender-xdr/)
-
-[Microsoft Sentinel documentation](https://learn.microsoft.com/en-us/azure/sentinel/)
-
-[Azure Monitor documentation](https://learn.microsoft.com/en-us/azure/azure-monitor/)
-
-[Kusto documentation](https://learn.microsoft.com/en-us/kusto/)
 
 [Microsoft Entra documentation](https://learn.microsoft.com/en-us/entra/)
 
 [Microsoft Entra ID Governance documentation](https://learn.microsoft.com/en-us/entra/id-governance/)
 
-[Microsoft cloud security benchmark](https://learn.microsoft.com/en-us/security/benchmark/azure/)
+[Microsoft Entra Agent ID documentation](https://learn.microsoft.com/en-us/entra/agent-id/)
 
-[PowerShell Documentation](https://learn.microsoft.com/en-us/powershell/)
-
-[Azure Command-Line Interface (CLI) documentation](https://learn.microsoft.com/en-us/cli/azure/?view=azure-cli-latest)
-
-[Azure Firewall documentation](https://learn.microsoft.com/en-us/azure/firewall/)
-
-[Azure DDoS Protection documentation](https://learn.microsoft.com/en-us/azure/ddos-protection/)
-
-[Microsoft Defender for Cloud documentation](https://learn.microsoft.com/en-us/azure/defender-for-cloud/)
-
-[Microsoft Defender XDR documentation](https://learn.microsoft.com/en-us/defender-xdr/?source=recommendations)
-
-[Microsoft Sentinel documentation ](https://learn.microsoft.com/en-us/azure/sentinel/)
+[Microsoft Agent 365 documentation](https://learn.microsoft.com/en-us/microsoft-agent-365/)
 
 
 
@@ -153,4 +126,4 @@
 
 ---
 
-[Top](#az-000-azure-foo-bar)
+[Top](#ab-650-administer-microsoft-365-and-ai-services)
