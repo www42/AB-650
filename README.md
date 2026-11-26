@@ -34,7 +34,7 @@
 
 |   |   |
 | - | - |
-| <img src="https://download69118.blob.core.windows.net/anon/microsoft-certified-associate-badge.svg"    width="100"/> | [Microsoft Certified: Associate](https://learn.microsoft.com/en-us/credentials/certifications/ai-services-administrator-associate/) |
+| <img src="https://download69118.blob.core.windows.net/anon/microsoft-certified-associate-badge.svg"    width="100"/> | [Microsoft 365 Certified: Microsoft 365 and AI Services Administrator Associate](https://learn.microsoft.com/en-us/credentials/certifications/ai-services-administrator-associate/) |
 
 <!-- 
 [Practice Assessment](https://)
@@ -76,11 +76,11 @@
 
 [Microsoft 365 documentation](https://learn.microsoft.com/en-us/microsoft-365/)
 
-[Microsoft Graph documentation](https://learn.microsoft.com/en-us/graph/)
-
 [Microsoft Entra documentation](https://learn.microsoft.com/en-us/entra/)
 
 [Microsoft Entra ID Governance documentation](https://learn.microsoft.com/en-us/entra/id-governance/)
+
+[Microsoft Graph documentation](https://learn.microsoft.com/en-us/graph/)
 
 [Microsoft Entra Agent ID documentation](https://learn.microsoft.com/en-us/entra/agent-id/)
 
@@ -90,6 +90,8 @@
 
 
 ## Useful Links 🤿
+
+[Microsoft Ignite](https://ignite.microsoft.com/en-US/home)
 
 <br>
 
